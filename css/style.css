@@ -1,0 +1,86 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @You in DTLA
+*/
+
+.navbar-nav a {
+font-family: 'Quicksand', sans-serif;
+color: black;
+	}
+
+
+.navbar-brand {
+	font-weight: 800;
+	color: #c9817b;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+.navbar-custom {
+	background-color: pink;
+}
+
+.navbar-custom a {
+	color: black;
+}
+
+.navbar {
+		border-bottom: 1px solid #c9817b;
+}
+
+h1{
+	font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 32px;
+	font-weight: 800;
+
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	line-height: 24px;
+
+}
+
+li{
+	font-family: 'Quicksand', sans-serif;
+	  text-indent: 50px;
+	  	line-height: 24px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.jumbotron {
+    min-height: 300px;
+   	background-color: #f7eceb;
+
+}
+
+.content {
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+
+#gallery {
+	background-color: #f7eceb;
+	padding-top: 20px;
+	margin-top: 20px;
+	}
+
+#coco {
+	max-height: 150px;
+}
+
+#contact {
+	padding-top: 20px;
+	margin-top: 20px;
+	}
